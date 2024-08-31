@@ -39,7 +39,7 @@
     "@types/react-dom": "^18.2.15",
     "remark-code-import": "^1.2.0",
     "typescript": "^5.2.2",
-    "webpack": "^5.89.0"
+    "webpack": "^5.94.0"
   },
   "browserslist": {
     "production": [
